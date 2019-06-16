@@ -1,0 +1,7 @@
+SQL> select * from login;
+
+USERNAME   PASSWORD
+---------- ----------
+raja       rani
+ankit      singh
+punnet     birthare
